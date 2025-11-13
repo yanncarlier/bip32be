@@ -1,0 +1,35 @@
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Build artifacts
+/dist
+/build
+/out
+
+# Editor/OS specific files
+.DS_Store
+Thumbs.db
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Test results
+/coverage
+
+# Other common files to ignore
+*.log
+*.tmp
+*.swp

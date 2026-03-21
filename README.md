@@ -1,8 +1,6 @@
 This project is a derivative work, inspired by and built upon the original code from the repository at https://github.com/iancoleman/bip39. 
 
-Use at Your Own Risk
-This is experimental/beta software. It may contain bugs or cause unexpected behavior.
-No warranties are provided. Use entirely at your own discretion and risk.
+**Disclaimer: Use at Your Own Risk** This is experimental beta software and may contain bugs or exhibit unexpected behavior. It is provided "as-is" without any warranties. Use of this software is entirely at your own discretion and risk.
 
 ````
 /usr/local/bin/node ./mnemonic_seed.js  
